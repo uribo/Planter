@@ -1,6 +1,8 @@
 Planter - Japanese wild plant catalog
 ======
 
+<img src="https://raw.githubusercontent.com/uribo/Planter/master/ANGIOSPERMAE/FAGACEAE/Quercus%20acuta%20アカガシ/DSC_5275.JPG">
+
 日本に生育する植物の写真などをまとめています。
 
 ## 分類群
